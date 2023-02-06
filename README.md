@@ -7,7 +7,7 @@
 
 
 ## ORGANIZATION
-### [2022 FORZA](https://github.com/2022-FORZA)
+### [🍀 2022 FORZA](https://github.com/2022-FORZA)
 <!--
 **smwu-forza/smwu-forza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
