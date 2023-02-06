@@ -2,7 +2,7 @@
 
 <a href="https://instagram.com/smwu_forza?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 <a href="https://instagram.com/smwu_forza?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/CAFE-ffffff?style=for-the-badge&logo=naver&logoColor=03C75A"/></a>
-<a href="https://contacts.google.com/person/c7200825128733589014?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="smwuforza@gmail.com?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/CONTACT-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 <!--
 **smwu-forza/smwu-forza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
