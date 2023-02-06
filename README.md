@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=FFE895&height=200&text=FORZA&fontAlign=70&rotate=13&fontAlignY=25&desc=sookmyung%20univ.%20programming%20club&fontColor=ffffff&descAlign=70.&descAlignY=44)
 
-<a href="https://instagram.com/smwu_forza?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://instagram.com/smwu_forza?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 <!--
 **smwu-forza/smwu-forza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
